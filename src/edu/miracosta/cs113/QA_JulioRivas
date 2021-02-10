@@ -1,0 +1,15 @@
+How often do you get a solution in fewer than 20 guesses? Does this change depending on the theory you test (1, 2, 3)?
+
+  /**
+  I get a solution fewer than 20 every single time. It does not depend on strategy. It is consistently less than 20 on all theories.
+  */
+
+What is good or bad about this strategy?
+
+  /**
+    It is a good strategy because it doesn't randomly guess numbers. My strategy instead keeps track of the ones it has already guessed
+    and guesses the next one according to the ones it has already guessed so it doesnt guess the same one more than one time.
+
+    The only downside to my strategy is that is logic heavy so its hard for another person to clearly understand the code without explaining them whats going on
+    also it increases the amount of memory the program utilizes.
+  */
